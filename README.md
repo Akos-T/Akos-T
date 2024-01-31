@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋, 
+
+My name is Akos and I'm a senior software engineer who loves backend (Go) and frontend (React, Next.js) as well. 
+
+- 🖥️ Working at [V_labs](https://www.vlabs.at)
+- 📖 Looking to learn more about the infrastructure side of development (Kubernetes, Terraform, Pulumi, etc.)
+- 💻 I have a website [akos.codes](https://akos.codes) which is currently under development
+- ✍️ I plan to write (from time to time) on [Medium](https://medium.com/@akos.codes).
+- ⛓️ I'm also interested in the blockchain technology
 
 <!--
 **Akos-T/Akos-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
