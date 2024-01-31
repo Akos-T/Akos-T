@@ -1,8 +1,8 @@
 ### Hello there 👋, 
 
-My name is Akos and I'm a senior software engineer who loves backend (Go) and frontend (React, Next.js) as well. 
+My name is Akos and I'm a Senior Software Engineer who loves backend (Go) and frontend (React, Next.js) as well. 
 
-- 🖥️ Working at [V_labs](https://www.vlabs.at)
+- 🖥️ Working at [V_labs](https://www.vlabs.at) (with a different user: [@akosvlabs](https://github.com/akosvlabs))
 - 📖 Looking to learn more about the infrastructure side of development (Kubernetes, Terraform, Pulumi, etc.)
 - 💻 I have a website [akos.codes](https://akos.codes) which is currently under development
 - ✍️ I plan to write (from time to time) on [Medium](https://medium.com/@akos.codes).
